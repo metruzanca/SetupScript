@@ -1,4 +1,11 @@
-# Setup Scripts
+<p align="center">
+  <a href="#">
+    <img alt="zbestdev" src="https://raw.githubusercontent.com/metruzanca/SetupScript/master/docs/assets/SetupScript.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  SetupScript
+</h1>
 
 The goal of this repo is to save all my personal configurations, separated by OS then by App, in order to easily be able to replicate them on any new system.
 
