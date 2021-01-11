@@ -33,6 +33,9 @@ Maybe create a `~/.config/setupScript/?` that stores things already installed. P
 
 Make my cli installable? Make my cli able to use anyone's setup repo files.
 
-Rust or Go instead of Bash for the main script if installable/downloadable?
+> Rust or Go instead of Bash for the main script if installable/downloadable?
+> <br>Maybe Python? (_Probably python..._)
 
 > (_linux, mac & wsl(similar to linux but minus a few things) maybe windows if i use choco or scoop_)
+
+- [ ] Per os build config that specifies load order e.g. brew on macos needs to be installed first.
