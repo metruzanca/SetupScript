@@ -1,3 +1,6 @@
+# Check if spotify is installed. if not, install spotify via brew.
+brew list --cask spotify || brew install --cask spotify
+
 # Install spicetify-cli from bash
 brew install khanhas/tap/spicetify-cli 
 
