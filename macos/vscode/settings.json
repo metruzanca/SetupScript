@@ -1,0 +1,103 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "diffEditor.renderSideBySide": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "javascript.suggest.names": false,
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.formatOnPaste": true,
+  "editor.matchBrackets": false,
+  // "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.ignoreMissingGitWarning": true,
+  "gitlens.mode.active": "review",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "todo-tree.general.statusBar": "total",
+  "todo-tree.statusBar": "total",
+  "todo-tree.tree.showScanModeButton": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "REFACTOR",
+    "TEST"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "FIXME": {
+      "foreground": "black",
+      "background": "#EB4949",
+      "type": "tag-and-comment",
+      "icon": "alert",
+      "iconColour": "#EB4949",
+      "gutterIcon": true
+    },
+    "REFACTOR": {
+      "foreground": "black",
+      "background": "#8D77FF",
+      "type": "tag-and-comment",
+      "icon": "gear",
+      "iconColour": "lightgray",
+      "gutterIcon": true
+    },
+    "TEST": {
+      "foreground": "black",
+      "background": "#6AC259",
+      "type": "text-and-comment",
+      "icon": "beaker",
+      "iconColour": "#6AC259",
+      "gutterIcon": true
+    }
+  },
+  "rust.clippy_preference": "on",
+  "rust-client.updateOnStartup": true,
+  "rust.build_on_save": true,
+  "glassit.step": 5200,
+  "glassit.alpha": 1,
+  "editor.formatOnSave": true,
+  "prettier.arrowParens": "avoid",
+  "rest-client.enableCustomVariableReferencesCodeLens": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "python.languageServer": "Pylance",
+  "stories.username": "Wallie_tomato",
+  "workbench.startupEditor": "welcomePage",
+  "java.home": "/Users/samuele.zanca/.sdkman/candidates/java/11.0.9.hs-adpt",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": true
+  },
+  "editor.wordBasedSuggestions": false,
+  "git.allowNoVerifyCommit": true,
+  "git-graph.graph.colours": [
+    "#FF5C57", // red
+    "#8D77FF", // purple
+    "#7aff9d", // lime
+    "#7a9eff", // blue
+    "#ffed7c", // yellow
+    "#9AEDFE", // cyan
+    "#ff82f7", // pink
+    "#f18f3f", // orange
+  ],
+  "git.confirmNoVerifyCommit": false,
+}

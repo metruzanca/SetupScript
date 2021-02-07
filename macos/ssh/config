@@ -1,0 +1,32 @@
+# ------------
+# Git ssh keys
+# ------------
+
+## Personal
+Host github.com
+  IdentityFile ~/.ssh/id_ed25519_metru_github
+Host gist.github.com
+  IdentityFile ~/.ssh/id_ed25519_metru_github
+
+
+## Dechit / Sisal
+Host sisal
+  HostName 10.29.11.66
+  IdentityFile ~/.ssh/id_ed25519_gitlab_sisal
+Host 10.29.11.66
+  HostName 10.29.11.66
+  IdentityFile ~/.ssh/id_ed25519_gitlab_sisal
+
+## Nameless
+Host nameless.github
+  HostName github.com
+  IdentityFile ~/.ssh/id_ed25519_nameless_github
+
+# -------------
+# SSH shortcuts
+# -------------
+
+## Raspberry pi 3B
+Host rasp
+  HostName 192.168.1.188
+  User ubuntu

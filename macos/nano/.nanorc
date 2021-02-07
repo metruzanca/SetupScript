@@ -1,0 +1,6 @@
+# Configuration
+set tabsize 2
+set tabstospaces
+
+# Syntax Highlighting
+# include ~/.nano/javascript.nanorc
